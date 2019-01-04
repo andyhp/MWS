@@ -1,0 +1,2 @@
+# MWS
+mpi work sharing
